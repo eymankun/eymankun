@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- markdownlint-disable MD041 -->
+<!-- ### Hi there 👋 -->
 
 <!--
 **eymankun/eymankun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋 I'm Aiman
+
+🌐 Infrastructure Engineer | ☁️ Cloud Enthusiast | 🛠️ Automating the world, one script at a time
+
+When I'm not wrangling servers or optimizing networks, you'll find me exploring the latest DevOps tools, sipping coffee, cycling exploring local cities, and occasionally yelling at my code. 😄
+
+🔗 Connect with me:
+
+- 🌐 [Portfolio](https://eymankun.gitlab.io/bio-page/)
+- 📱 [LinkedIn](https://www.linkedin.com/in/muhammad-aiman/)
+<!-- - 🐦 Twitter: @yourhandle -->
+
+Let's build robust infrastructures together! 🚀
